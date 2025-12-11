@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\Game Folder\Game Project\Game Project\main.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Game Folder\Game Project\Game Project\main.cpp(54,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Folder\Game Project\Game Project\main.cpp(54,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Folder\Game Project\Game Project\main.cpp(65,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game Folder\Game Project\Game Project\main.cpp(65,42): warning C4244:         with
+D:\Game Folder\Game Project\Game Project\main.cpp(65,42): warning C4244:         [
+D:\Game Folder\Game Project\Game Project\main.cpp(65,42): warning C4244:             T=float
+D:\Game Folder\Game Project\Game Project\main.cpp(65,42): warning C4244:         ]
+D:\Game Folder\Game Project\Game Project\main.cpp(132,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game Folder\Game Project\Game Project\main.cpp(132,46): warning C4244:         with
+D:\Game Folder\Game Project\Game Project\main.cpp(132,46): warning C4244:         [
+D:\Game Folder\Game Project\Game Project\main.cpp(132,46): warning C4244:             T=float
+D:\Game Folder\Game Project\Game Project\main.cpp(132,46): warning C4244:         ]
+  Generating code
+  2 of 85 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game Project.vcxproj -> D:\Game Folder\Game Project\x64\Release\Game Project.exe
