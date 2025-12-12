@@ -1,1 +1,2 @@
-# project-work-1
+📄 **Game Instructions PDF:**  
+[👉 Click here to open the PDF](readmefile.pdf)
